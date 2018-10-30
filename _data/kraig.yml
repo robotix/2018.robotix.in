@@ -1,0 +1,49 @@
+about: "The Kharagpur Robotics and Artificial Intelligence Group is the technical wing of Technology Robotix Society, and is a slightly larger group of students who learn robotics throughout the year and work on projects. The members of KRAIG attend classes held on a weekly basis, conducted by those on campus experienced in the field. The KRAIG classes start from scratch, assuming very little prior knowledge, and cover all the fundamental aspects of manual and autonomous robotics. The topics to be discussed are announced and updated before each class. For most of the theoretical classes, there is an accompanying hands-on sessions so that members may get the practical exposure that will aid their learning. In the winter, another memorable freshers’ robotics events of the year is hosted; the annual Winter Workshop."
+group: https://www.facebook.com/groups/1083042461785353/
+schedule:
+  -
+    date: "2018-8-21"
+    dateReadable: "August 21"
+    tracks:
+      - {title: "Workshop", color: "#90be4e"}
+    timeslots:
+      - {
+        startTime: "20:30",
+        endTime: "22:00",
+        sessionIds: [001]
+      }
+  -
+    date: "2018-8-30"
+    dateReadable: "August 30"
+    tracks: 
+      - {title: "Workshop", color: "#90be4e"}
+    timeslots:
+      - {
+        startTime: "18:30",
+        endTime: "20:00",
+        sessionIds: [002]
+      }
+  -
+    date: "2018-10-2"
+    dateReadable: "October 2"
+    tracks:
+      - {title: "Workshop", color: "#90be4e"}
+    timeslots:
+      - {
+        startTime: "18:00",
+        endTime: "20:00",
+        sessionIds: [003]
+      }
+  -
+    date: "2018-10-26"
+    dateReadable: "October 26"
+    tracks:
+      - {title: "Workshop", color: "#90be4e"}
+    timeslots:
+      - {
+        startTime: "20:30",
+        endTime: "21:30",
+        sessionIds: [004]
+      }      
+
+  
