@@ -3,23 +3,23 @@
   title: "KRAIG 101"
   description: "Dive into the world of hobby robotics."
   subtype: presentation
-  speakers: [23, 25, 26]
+  speakers: [19, 22]
   language: en
   complexity: "Beginner"
   links:
-    - { title: "View presentation", src: "https://prezi.com/view/t385ExoVX5ENfSgnIdnS/"}
-  banner: "/img/session/001/KRAIG101_7.jpg"
+    - { title: "View presentation", src: "https://prezi.com/view/8Pb9KjB3GIaDmBJApEZz"}
+  banner: "/img/session/001/KRAIG101_6.jpg"
 -
   id: 002
   title: "KRAIG 102"
-  description: "Workshop on advanced manual robotics. Arm, Forklift, Shooting, Stair Climbing Mechanisms"
+  description: "Building your own robosoccer bot!"
   subtype: presentation
-  speakers: [25, 27]
+  speakers: [20, 21]
   language: en
   complexity: "Intermediate"
   links:
-    - { title: "View presentation", src: "http://prezi.com/kgbq90o0jtdm/?utm_campaign=share&utm_medium=copy&rc=ex0share"}
-  banner: "/img/session/001/KRAIG102.jpg"    
+    - { title: "View presentation", src: "https://prezi.com/view/NqsDmw2TWV2MS0j2XVyt/"} 
+  video: "https://circuits.io/circuits/2578473-relay-example-with-motor/embed#breadboard"
 -
   id: 006
   title: "Visual Pose Estimation for a Mobile Manipulator"
@@ -81,14 +81,13 @@
 -
   id: 003
   title: "KRAIG 201"
-  description: "Workshop on Autonomous robotics"
+  description: "Workshop on advanced manual robotics. Arm, Forklift, Shooting, Stair Climbing Mechanisms"
   subtype: presentation
-  speakers: [28, 30]
+  speakers: [21, 23]
   language: en
   complexity: "Intermediate"
   links:
-    - { title: "View presentation", src: "https://prezi.com/view/QB15UEDPzh0QYskLxRzd/"}
-  banner: "/img/session/001/201.jpg" 
+    - { title: "View presentation", src: "https://prezi.com/uoj1vhyscugf/advanced/?utm_campaign=share&utm_medium=copy"}
 
 -
   id: 012
@@ -112,13 +111,12 @@
 -
   id: 004
   title: "KRAIG 301"
-  description: "Introduction to Image Processing and Computer Vision"
+  description: "Introduction to Autonomous robotics"
   subtype: presentation
-  speakers: [29, 31, 32]
+  speakers: [15, 20, 24]
   language: en
-  complexity: "Intermediate"
+  complexity: "Beginner"
   links:
-    - { title: "View presentation", src: "https://prezi.com/view/mlFWebAyuL9o0HLLayt0/?fbclid=IwAR3JV-N29Im4ROaoOYeZkFRX3cRBs-jIiXEjo_NT9dvVwTF_LbeBdiUS77Q"}
-  banner: "/img/session/001/301.png"
+    - { title: "View presentation", src: "https://prezi.com/p/8zbr_57cp0v8/"}
 
     

@@ -2,19 +2,19 @@ about: "The Kharagpur Robotics and Artificial Intelligence Group is the technica
 group: https://www.facebook.com/groups/1083042461785353/
 schedule:
   -
-    date: "2018-8-21"
+    date: "2017-8-21"
     dateReadable: "August 21"
     tracks:
       - {title: "Workshop", color: "#90be4e"}
     timeslots:
       - {
-        startTime: "20:30",
-        endTime: "22:00",
+        startTime: "18:00",
+        endTime: "20:00",
         sessionIds: [001]
       }
   -
-    date: "2018-8-30"
-    dateReadable: "August 30"
+    date: "2017-8-24"
+    dateReadable: "August 24"
     tracks: 
       - {title: "Workshop", color: "#90be4e"}
     timeslots:
@@ -24,25 +24,25 @@ schedule:
         sessionIds: [002]
       }
   -
-    date: "2018-10-2"
-    dateReadable: "October 2"
+    date: "2017-10-11"
+    dateReadable: "October 11"
     tracks:
       - {title: "Workshop", color: "#90be4e"}
     timeslots:
       - {
-        startTime: "18:00",
+        startTime: "18:30",
         endTime: "20:00",
         sessionIds: [003]
       }
   -
-    date: "2018-10-26"
-    dateReadable: "October 26"
+    date: "2017-10-12"
+    dateReadable: "October 12"
     tracks:
       - {title: "Workshop", color: "#90be4e"}
     timeslots:
       - {
-        startTime: "20:30",
-        endTime: "21:30",
+        startTime: "18:30",
+        endTime: "20:00",
         sessionIds: [004]
       }      
 
